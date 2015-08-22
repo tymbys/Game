@@ -1,0 +1,6 @@
+G:\Project\Game\Game_play\Game_play\bin\Game_play.dll.config
+G:\Project\Game\Game_play\Game_play\bin\Game_play.dll
+G:\Project\Game\Game_play\Game_play\bin\Game_play.pdb
+G:\Project\Game\Game_play\Game_play\obj\Debug\Game_play.csprojResolveAssemblyReference.cache
+G:\Project\Game\Game_play\Game_play\obj\Debug\Game_play.dll
+G:\Project\Game\Game_play\Game_play\obj\Debug\Game_play.pdb
