@@ -4,3 +4,9 @@ G:\Project\Game\Game_play\Game_play\bin\Game_play.pdb
 G:\Project\Game\Game_play\Game_play\obj\Debug\Game_play.csprojResolveAssemblyReference.cache
 G:\Project\Game\Game_play\Game_play\obj\Debug\Game_play.dll
 G:\Project\Game\Game_play\Game_play\obj\Debug\Game_play.pdb
+D:\progekt\HTML\Game\Game_play\Game_play\bin\Game_play.dll.config
+D:\progekt\HTML\Game\Game_play\Game_play\bin\Game_play.dll
+D:\progekt\HTML\Game\Game_play\Game_play\bin\Game_play.pdb
+D:\progekt\HTML\Game\Game_play\Game_play\obj\Debug\Game_play.csprojResolveAssemblyReference.cache
+D:\progekt\HTML\Game\Game_play\Game_play\obj\Debug\Game_play.dll
+D:\progekt\HTML\Game\Game_play\Game_play\obj\Debug\Game_play.pdb
